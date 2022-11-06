@@ -1,4 +1,4 @@
-import { YogaNode } from 'yoga-layout';
+import { YogaNode } from 'yoga-layout-prebuilt';
 import React, { FunctionComponent, isValidElement } from 'react';
 import { Container, Graphics } from '@inlet/react-pixi';
 import { Graphics as Context } from 'pixi.js';

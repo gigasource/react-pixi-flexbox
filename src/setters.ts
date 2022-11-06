@@ -13,7 +13,7 @@ import {
 	PositionType,
     Edge
 } from './constants';
-import { YogaNode } from 'yoga-layout';
+import { YogaNode } from 'yoga-layout-prebuilt';
 import {
 	convertFlexDirection,
 	FlexDirectionValues,

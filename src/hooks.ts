@@ -1,5 +1,5 @@
 import { useEffect, useState, useContext } from 'react';
-import { YogaNode, Node } from 'yoga-layout';
+import { YogaNode, Node } from 'yoga-layout-prebuilt';
 import { ILayoutStyles } from './props.interface';
 import {
 	setWidth,

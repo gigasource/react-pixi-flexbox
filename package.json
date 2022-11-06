@@ -19,7 +19,7 @@
     "@inlet/react-pixi": "^1.1.2",
     "react": "^16.10.2",
     "tslib": "^1.10.0",
-    "yoga-layout": "^1.9.3"
+    "yoga-layout-prebuilt": "^1.10.0"
   },
   "devDependencies": {
     "@betit/rollup-plugin-rename-extensions": "^0.1.0",
